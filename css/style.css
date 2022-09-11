@@ -1,0 +1,23 @@
+.text {
+	color: blueviolet;
+}
+a {
+	color: red;
+}
+
+.text-span{
+	color: royalblue;
+}
+
+.lesson{
+	color: blue;
+}
+
+
+.cookbook + p {
+	color: rgb(47, 16, 133);
+}
+
+.cookbook ~ div {
+	color: red;
+}
